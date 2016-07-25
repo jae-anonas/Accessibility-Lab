@@ -68,3 +68,8 @@ Included in this lab are the following:
 
 - A list of features and widgets that will make the app accessible
 - The improved version of ProjectX app
+
+
+#### List of Features
+
+- add content description to tab page headers
